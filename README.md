@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Morgana Reis.
+- 👀 I’m interested in AI and Data Science.
+- 🌱 I’m currently learning PHP.
+- 📫 How to reach me Morgana Reis on Linkdin.
+- 😄 Pronouns: She/her.
+- ⚡ something about me: Student at UFRRJ, I have never been more tired.
